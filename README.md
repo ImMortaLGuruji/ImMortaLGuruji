@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImMortaLGuruji
 - 👀 I’m interested in "Discord Bot Development"
 - 🌱 I’m currently learning "JavaScript, discord.js"
-- 💞️ I’m looking to collaborate on "Developing Discord Bot" 
+- 💞️ I’m looking to collaborate on "Developing Discord Bots" 
 - 📫 How to reach me "ImMortaLGuruji#9269 is my username and tag on Discord"
 
 <!---
